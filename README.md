@@ -18,7 +18,7 @@ Follow these steps to set up and run the YouTube Transcript Summarizer:
 
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your_username/your_repository.git
+   git clone [https://github.com/Rohitdaddekar/Video-to-Notes-converter.git]
 
 2. Install the required dependencies:
    
@@ -33,7 +33,7 @@ Follow these steps to set up and run the YouTube Transcript Summarizer:
 ## Usage
 
 1. Input a valid YouTube video link in the sidebar.
-2. Click the "Get Detailed Notes" button to extract the transcript    and generate a summary.
+2. Click the "Get Detailed Notes" button to extract the transcript and generate a summary.
 3. The detailed notes and summary will be displayed in the main content area.
 
 ## Dependencies
