@@ -9,6 +9,9 @@ This repository contains a Streamlit web application that serves as a YouTube vi
 - **Summary Generation**: The Google Gemini Pro API is employed to generate a summary of the extracted transcript within 250 words.
 - **User Interface**: The Streamlit app provides an interactive and user-friendly interface, allowing users to easily obtain detailed notes for a given YouTube video.
 
+## Some of the Project ScreenShot:
+   ![alt text](image.png)
+
 ## Getting Started
 
 Follow these steps to set up and run the YouTube Transcript Summarizer:
