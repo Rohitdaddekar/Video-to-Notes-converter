@@ -15,7 +15,7 @@ Follow these steps to set up and run the YouTube Transcript Summarizer:
 
 1. Clone the repository to your local machine:
    
-   git clone [https://github.com/your_username/your_repository.git](https://github.com/Rohitdaddekar/Video-to-Notes-converter.git)
+   git clone [https://github.com/Rohitdaddekar/Video-to-Notes-converter.git]
 
 2. Install the required dependencies:
    
